@@ -12,7 +12,7 @@
 - [4. Modelling Evaluation](#4-modelling-evaluation)
 - [5. Results](#5-results)
 
-### Name Entity Recognition using Neural Neworks and Transformers Approach
+### Name Entity Recognition using Neural Networks and Transformers Approach
 
 This dataset contains release versions of the Georgetown University Multilayer Corpus (GUM), a corpus of English texts from twelve written and spoken text types.The corpus is created as part of the course LING-367 (Computational Corpus Linguistics) at Georgetown University.
 Thus, our aim is to use two different kind of classifiers in order to accomplish the NER task.
