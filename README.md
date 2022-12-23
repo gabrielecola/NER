@@ -1,8 +1,8 @@
-## NER
+## Named Entity Recognition for GUM
 
 ## Table of Contents
 
- - [Name Entity Recognition using Neural Neworks and Transformers Approach](#name-entity-recognition-using-neural-neworks-and-transformers-approach)
+ - [Named Entity Recognition using Neural Neworks and Transformers Approach](#named-entity-recognition-using-neural-neworks-and-transformers-approach)
 - [1. Problem Statement](#1-problem-statement)
 - [2. Data Description](#2-data-description)
   * [Attribute Information](#attribute-information)
