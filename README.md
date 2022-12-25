@@ -8,9 +8,10 @@
   * [Attribute Information](#attribute-information)
     + [Inputs](#inputs)
     + [Output](#output)
-- [3. EDA](#3-eda)
-- [4. Modelling Evaluation](#4-modelling-evaluation)
-- [5. Results](#5-results)
+- [3. Topic Modelling](#3-topic-modelling)
+- [4. EDA](#4-eda)
+- [5. Modelling Evaluation](#5-modelling-evaluation)
+- [6. Results](#6-results)
 
 ### Name Entity Recognition using Neural Networks and Transformers Approach
 
@@ -31,19 +32,25 @@ Data is obtained from this [repo](https://github.com/nluninja/nlp_datasets/tree/
   ##### Output
   - ner_tag : a classification label , 23 classes
   
- ### 3. EDA
+ ###  3.  Topic Modelling
+ The Topics are analyzed via two methods:
+   - Latent Dirichlet Allocation (LDA)
+   - Negative Matrix Factorization (NMF)
+   
+  
+ ### 4. EDA
  <p float="left">
   <img src="https://user-images.githubusercontent.com/103529789/209395989-6935edaa-2b24-4890-9b4e-d6d18122496e.png" width="350"/>
   <img src="https://user-images.githubusercontent.com/103529789/209396030-d4eea9e8-ef62-4b75-afb4-bdf32511b4c5.png" width="570"/>
   </p>
   
- ### 4. Modelling Evaluation
+ ### 5. Modelling Evaluation
  - Algorithms used
     - BI-LSTM
     - BERT
  - Metrics used: Accuracy, Precision,Recall, F1-Score
  
-  ### 5. Results
+  ### 6. Results
   
    <p float="left">
   <img src="https://user-images.githubusercontent.com/103529789/209396483-76951920-6feb-49b3-b07c-ad1eedbed4f7.png" width="350"/>
