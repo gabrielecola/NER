@@ -37,12 +37,20 @@ Data is obtained from this [repo](https://github.com/nluninja/nlp_datasets/tree/
    - Latent Dirichlet Allocation (LDA)
    - Negative Matrix Factorization (NMF)
    
+ <p float="left">
+   <img src="https://user-images.githubusercontent.com/103529789/209487141-717f4a28-51ba-410e-b0d8-e21969649e7f.png" width="350"/>
+   <img src="https://user-images.githubusercontent.com/103529789/209487263-7ebc8005-9600-436c-bea3-7f81f446df13.png" width="350"/>
+   </p>
+
+   
   
  ### 4. EDA
  <p float="left">
   <img src="https://user-images.githubusercontent.com/103529789/209395989-6935edaa-2b24-4890-9b4e-d6d18122496e.png" width="350"/>
-  <img src="https://user-images.githubusercontent.com/103529789/209396030-d4eea9e8-ef62-4b75-afb4-bdf32511b4c5.png" height='300' width="450"/>
+  <img src="https://user-images.githubusercontent.com/103529789/209487644-a24931a1-34de-428b-b83b-2834137adab3.png" height='315' width="450"/>
   </p>
+
+  
   
  ### 5. Modelling Evaluation
  - Algorithms used
