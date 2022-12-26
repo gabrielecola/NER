@@ -41,7 +41,7 @@ Data is obtained from this [repo](https://github.com/nluninja/nlp_datasets/tree/
  ### 4. EDA
  <p float="left">
   <img src="https://user-images.githubusercontent.com/103529789/209395989-6935edaa-2b24-4890-9b4e-d6d18122496e.png" width="350"/>
-  <img src="https://user-images.githubusercontent.com/103529789/209396030-d4eea9e8-ef62-4b75-afb4-bdf32511b4c5.png" width="450"/>
+  <img src="https://user-images.githubusercontent.com/103529789/209396030-d4eea9e8-ef62-4b75-afb4-bdf32511b4c5.png" height='300' width="450"/>
   </p>
   
  ### 5. Modelling Evaluation
